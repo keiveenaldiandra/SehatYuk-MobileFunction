@@ -2,8 +2,8 @@
 
 ## Identitas
 
-Nama : Keiveen Aldiandra
-NIM : 2408107010085
+# Nama : Keiveen Aldiandra
+# NPM : 2408107010085
 
 ## Judul Project
 
